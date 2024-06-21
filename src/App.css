@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-bottom: 0rem;
+  padding-bottom: 0rem;
+  margin-top: 0rem;
+  padding-top: 0rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
